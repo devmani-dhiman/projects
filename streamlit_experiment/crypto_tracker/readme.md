@@ -1,6 +1,8 @@
 This is a web app created in streamlit and deployed on heroku. This app scrapes the data from "https://coinmarketcap.com/ website and displays the top 100 crypto currencies. The app currently takes time as it fetches new data everytimewe run the app.
   
-This app is also deployed on heroku platform.
+This app is also deployed on heroku platform. click on the link to check the deployed app.
+
+Link to app : "https://cryptotrackerstreamlit.herokuapp.com/"
 
 The webscrapping part is done using the following python libraries: 
     
