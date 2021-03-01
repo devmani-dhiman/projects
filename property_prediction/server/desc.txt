@@ -1,0 +1,1 @@
+This folder contains the server side coding. For this purpose, Flask module was used to create 2 API's end point. One is a "GET" request for fetching the location and the other is a "POST" request for predicting the property price.
