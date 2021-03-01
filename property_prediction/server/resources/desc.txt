@@ -1,0 +1,6 @@
+This folder contains 2 files:
+
+    1. Columns.json
+    2. Pickled model
+   
+These files are also present in the model folder. For your model to work these files must be present here as we use them to fetch the data and display them on Front end.
