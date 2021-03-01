@@ -1,1 +1,0 @@
-This folder contains all the file related to model. The contents of the folder are original ML model file (ipynb format), pickle format of the ML model, and location in a Json file named "columns.json"
